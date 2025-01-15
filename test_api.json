@@ -1,0 +1,74 @@
+{
+    "monsters": [
+        {
+            "type": "Necrophage",
+            "creatures": [
+                {
+                    "id": "001",
+                    "name": "Ghoul",
+                    "description": "After the Northern Wars...",
+                    "weaknesses": [
+                        "Silver",
+                        "Necrophage Oil"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "/images/Ghoul"
+                },
+                {
+                    "id": "002",
+                    "name": "Alghoul",
+                    "description": "Alghouls are a sub-species of necrophage, and the biological cousins of ghouls, distinguished by their darker visage, larger size and strength, colourings, and intelligence.",
+                    "weaknesses": [
+                        "Silver",
+                        "Necrophage Oil"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://static.wikia.nocookie.net/witcher/images/5/57/Bestiary_Alghoul.png/revision/latest?cb=20071116211727"
+                },
+                {
+                    "id": "003",
+                    "name": "Graveir",
+                    "description": "Graveirs are a species of necrophage, and the cousins of ghouls. Unlike their smaller cousins, these creatures can be distinguished by the three bony combs on their skull, blunt claws, strong teeth and a long tongue for feeding on marrow.",
+                    "weaknesses": [
+                        "Silver",
+                        "Necrophage Oil"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://example.com/ghoul.jpg"
+                },
+                {
+                    "id": "004",
+                    "name": "Devourer",
+                    "description": "Devourer, or Black Annis, are said to derive from a tale of Baba Yaga where a man happened upon a devourer. If so, a disclaimer is required: the tale was softened. It provides only a faint idea of what can happen to a stray traveler who should have the misfortune of passing near a devourer's lair.",
+                    "weaknesses": [
+                        "Silver",
+                        "Necrophage Oil"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://example.com/ghoul.jpg"
+                },
+                {
+                    "id": "005",
+                    "name": "Cemetaur",
+                    "description": "The most powerful of all the necrophages, the Cemetaur is the true queen of the necropolis. A Graved Dead spells certain death to anyone but a witcher. This is a well-known fact among grave robbers and all who live near battlefields.",
+                    "weaknesses": [
+                        "Silver",
+                        "Necrophage Oil"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://example.com/ghoul.jpg"
+                }
+            ]
+        }
+    ]
+}
