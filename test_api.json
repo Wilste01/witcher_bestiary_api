@@ -4,69 +4,1921 @@
             "type": "Necrophage",
             "creatures": [
                 {
-                    "id": "001",
-                    "name": "Ghoul",
-                    "description": "After the Northern Wars...",
+                    "id": "Abaya",
+                    "name": "",
+                    "description": "Abaya is a powerful water hag leading a pack of drowners in the bay beneath Kaer Trolde. They often attack fishermen and warriors who are crossing these treacherous waters.",
                     "weaknesses": [
-                        "Silver",
-                        "Necrophage Oil"
+                        "",
+                        ""
                     ],
                     "immunities": [
-                        "Poison"
+                        ""
                     ],
-                    "image": "/images/Ghoul"
+                    "image": ""
                 },
                 {
-                    "id": "002",
-                    "name": "Alghoul",
-                    "description": "Alghouls are a sub-species of necrophage, and the biological cousins of ghouls, distinguished by their darker visage, larger size and strength, colourings, and intelligence.",
+                    "id": "Alghoul",
+                    "name": "",
+                    "description": "Alghouls are a sub-species of necrophage, and the biological cousins of ghouls, distinguished by their darker visage, larger size and strength, colourings, and intelligence. After the Northern Wars, their numbers spread rapidly through the Northern Kingdoms, due to lack of control and widespread famine which attracted the corpse-eaters.",
                     "weaknesses": [
-                        "Silver",
-                        "Necrophage Oil"
+                        "",
+                        ""
                     ],
                     "immunities": [
-                        "Poison"
+                        ""
                     ],
-                    "image": "https://static.wikia.nocookie.net/witcher/images/5/57/Bestiary_Alghoul.png/revision/latest?cb=20071116211727"
+                    "image": ""
                 },
                 {
-                    "id": "003",
-                    "name": "Graveir",
-                    "description": "Graveirs are a species of necrophage, and the cousins of ghouls. Unlike their smaller cousins, these creatures can be distinguished by the three bony combs on their skull, blunt claws, strong teeth and a long tongue for feeding on marrow.",
-                    "weaknesses": [
-                        "Silver",
-                        "Necrophage Oil"
-                    ],
-                    "immunities": [
-                        "Poison"
-                    ],
-                    "image": "https://example.com/ghoul.jpg"
-                },
-                {
-                    "id": "004",
+                    "id": "",
                     "name": "Devourer",
                     "description": "Devourer, or Black Annis, are said to derive from a tale of Baba Yaga where a man happened upon a devourer. If so, a disclaimer is required: the tale was softened. It provides only a faint idea of what can happen to a stray traveler who should have the misfortune of passing near a devourer's lair.",
                     "weaknesses": [
-                        "Silver",
-                        "Necrophage Oil"
+                        "",
+                        ""
                     ],
                     "immunities": [
-                        "Poison"
+                        ""
                     ],
-                    "image": "https://example.com/ghoul.jpg"
+                    "image": ""
                 },
                 {
-                    "id": "005",
-                    "name": "Cemetaur",
-                    "description": "The most powerful of all the necrophages, the Cemetaur is the true queen of the necropolis. A Graved Dead spells certain death to anyone but a witcher. This is a well-known fact among grave robbers and all who live near battlefields.",
+                    "id": "",
+                    "name": "Drowner",
+                    "description": "Drowners, also known as muire d'yaeblen in Skellige or vodniks, inhabit both natural and artificial bodies of water, from rivers and lakes to mill ponds and city sewers. It is commonly thought that these creatures are drowned men, somehow arisen from the dead to prey on the living. This opinion is as widespread as it is false, for the beasts are in fact another post-Conjunction relic.",
                     "weaknesses": [
-                        "Silver",
-                        "Necrophage Oil"
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "",
+                    "name": "Drowned dead",
+                    "description": "Drowned dead (Polish: Topielec), is a more dangerous drowner variant. Like their cousins, they are found in and around bodies of water. It's commonly believed that drowners and drowned dead are criminals who met their ends by drowning, but this is false. In actuality, they're post-Conjunction creatures, making them entirely separate entities from humans and non-humans.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "",
+                    "name": "Foglet",
+                    "description": "Foglers, foglings, or foglets (Polish: Mglak) are magical beings said to have arrived during the Conjunction of the Spheres. They tend to be found mainly in swamps, forests, or in the mountains and lure their prey into traps using magic. They have glowing eyes and mouths, keen ears and long pointed fingers and feed on the bodies of their victims.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "",
+                    "name": "Ghoul",
+                    "description": "After the Northern Wars, necrophages generally grew bolder and multiplied in the Northern Kingdoms; ghouls, a sub-species, became the most common corpse-eaters, usually found roaming around in packs, distinguishable from their cousins, alghouls, by the sickly paleness of their visage.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "",
+                    "name": "Grave hag",
+                    "description": "Few monsters' names fit as well as the grave hags'. As one might guess, these creatures resemble aged, deformed women and loiter near graveyards and battlefields. Grave hags feed on human corpses and in particular on the rotten marrow which they slurp from human bones using their long, prehensile tongues. Once a hag has devoured all corpses within reach, she turns to killing men and burying them in the cemetery as she waits for them to decompose.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "",
+                    "name": "Ignis Fatuus",
+                    "description": "gnis Fatuus is a monster in The Witcher 3: Wild Hunt. It is an ancient and powerful foglet living in a cave located in the bogs of Velen. The necessity of using Moon Dust bombs cannot be overstated.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "",
+                    "name": "Mourntart",
+                    "description": "Mourntart is a powerful grave hag prowling the cemetery of Lindenvale, where she digs up graves and kidnaps wandering children.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "",
+                    "name": "Mucknixer",
+                    "description": "Mucknixer is the name given by humans to a dangerous species of drowner and drowned dead. They are different from their brothers in look. It is commonly thought that these creatures arise from the bodies of those who drown in shallow water: lost travelers falling into bogs, children who swim too far from the shore. This opinion is as widespread as it is false, for the beasts are in fact another post-Conjunction relic.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "",
+                    "name": "Rotfiend",
+                    "description": "What rotfiends are, everyone can see. Even seeing them is not necessary, as hearing their name should be enough to tell anyone what creatures might bear this unpleasant title. The creatures multiplied after the last Northern War and today plague wilderness villages and forest settlements. Given that they are necrophages, rotfiends feed on carrion and human corpses, though this does not mean they do not attack the living. They appear on battlefields, near cities afflicted by plague, or around villages touched by famine. ",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "",
+                    "name": "Scurver",
+                    "description": "Scurvers appear as a new type of monster in the Blood and Wine expansion. Similar to rotfiends but covered in needles, they explode when near death, causing these needles to fly everywhere.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "",
+                    "name": "Spotted wight",
+                    "description": "Spotted wights were a subspecies of wight which the witchers drove to extinction. They were larger than their unspotted kin and owed their names to their numerous blotches and effusions. Spotted wights would most often dwell in derelict cemeteries and empty wildernesses, yet at times took to living in abandoned human domiciles. There they would indulge in their greatest passion: creating brews from their own emissions.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "",
+                    "name": "Water hag",
+                    "description": "Some tales mention water hags and swamp bints masquerading as lost old women to lure travelers back to the rickety shacks they build in the wetlands. In truth, only a blind man, or a sighted man blinded with drink, could mistake the rank sludge and rotting carrion of a water hag's den for a cozy cottage, and the hideous hag herself for an innocent grandmother. Their wrinkled, wart-covered bodies stand nearly two yards tall, with skin the color of a long-dead cadaver and stinking of muck and fish. Bony growths two spans long stick out from their backs, with hair like a tangle of seaweed and claws that would make a werewolf proud completing the picture.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "",
+                    "name": "Wight",
+                    "description": "Though wights are ghastly and threatening in appearance, one should not approach them with sword drawn or attack them unprovoked. Left alone, they present no serious danger to anyone and are far more interested in mixing noxious brews in cauldrons than in fighting. This species mainly lives around ancient burial sites, though they have also been spotted near more recently-founded cemeteries and wherever mass graves can be found.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        ""
+                    ],
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "type": "Beasts",
+            "creatures": [
+                {
+                    "id": "006",
+                    "name": "Bears",
+                    "description": "Bears are an omnivore mammal encountered in the Continent that are natural inhabitants of the world, meaning they didn't arrive during the Conjunction of the Spheres.",
+                    "weaknesses": [
+                        "Beast Oil",
+                        "Axii Sign"
+                    ],
+                    "immunities": [
+                        "Poison",
+                        "Bleeding"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Bear?file=Bear_Witcher_3.png"
+                },
+                {
+                    "id": "007",
+                    "name": "Big Bad Wolf",
+                    "description": "The Big Bad Wolf is a large lupine humanoid who inhabits the illusory Land of a Thousand Fables, created by Artorius Vigo.",
+                    "weaknesses": [
+                        "Moon Dust",
+                        "Devil's Puffball",
+                        "Beast Oil"
+                    ],
+                    "immunities": [
+                        "Mind Control",
+                        "Knockdown"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Big_Bad_Wolf?file=Big_Bad_Wolf_Witcher_3.png"
+                },
+                {
+                    "id": "008",
+                    "name": "Dogs",
+                    "description": "Dogs are the carnivorous decedents of wolves that were domesticated by humans. While generally docile, they may become wild, cursed, unnaturally ravenous, or all of the above.",
+                    "weaknesses": [
+                        "Beast Oil",
+                        "Axii Sign"
+                    ],
+                    "immunities": [
+                        "Fear",
+                        "Poison"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Dog?file=Dog_Witcher_3.png"
+                },
+                {
+                    "id": "009",
+                    "name": "Panthers",
+                    "description": "Panthers are a type of large cat that primarily live in Toussaint.",
+                    "weaknesses": [
+                        "Beast Oil",
+                        "Axii Sign"
+                    ],
+                    "immunities": [
+                        "Poison",
+                        "Bleeding"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Panther?file=Panther_Witcher_3.png"
+                },
+                {
+                    "id": "010",
+                    "name": "The Beast of Beauclair",
+                    "description": "The Beast of Beauclair, whose true name was Dettlaff van der Eretein, was a serial killer in Beauclair in 1275.",
+                    "weaknesses": [
+                        "Moon Dust",
+                        "Black Blood",
+                        "Vampire Oil"
+                    ],
+                    "immunities": [
+                        "Poison",
+                        "Bleeding",
+                        "Knockdown"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Dettlaff_van_der_Eretein?file=Dettlaff_Witcher_3.png"
+                },
+                {
+                    "id": "011",
+                    "name": "Three Little Pigs",
+                    "description": "The Three Little Pigs are anthropomorphic creatures that reside together in the Land of a Thousand Fables.",
+                    "weaknesses": [
+                        "Axii Sign",
+                        "Beast Oil"
+                    ],
+                    "immunities": [
+                        "Mind Control",
+                        "Fear"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Three_Little_Pigs?file=Three_Little_Pigs_Witcher_3.png"
+                },
+                {
+                    "id": "012",
+                    "name": "Wild Boars",
+                    "description": "Wild Boars of the Northern Kingdoms (Elder Speech: Tirth), also known as wild swine, are quite dangerous natural beasts appearing in the Northern Realms.",
+                    "weaknesses": [
+                        "Beast Oil",
+                        "Axii Sign"
+                    ],
+                    "immunities": [
+                        "Poison",
+                        "Fear"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Wild_Boar?file=Wild_Boar_Witcher_3.png"
+                },
+                {
+                    "id": "013",
+                    "name": "Wolves",
+                    "description": "Wolves are an aggressive and carnivorous species of wild animal, related to the domesticated dogs found in human settlements.",
+                    "weaknesses": [
+                        "Beast Oil",
+                        "Axii Sign"
+                    ],
+                    "immunities": [
+                        "Poison",
+                        "Fear"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Wolf?file=Wolf_Witcher_3.png"
+                },
+                {
+                    "id": "014",
+                    "name": "Wargs",
+                    "description": "Wargs are creatures which were part of the early design for The Witcher, but later cut, and likely used as the basis for the armored hounds created by the Grand Master.",
+                    "weaknesses": [
+                        "Beast Oil",
+                        "Quen Sign"
+                    ],
+                    "immunities": [
+                        "Poison",
+                        "Knockdown"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Warg?file=Warg_Witcher_3.png"
+                }
+            ]
+        },
+        {
+            "type": "Cursed Ones",
+            "creatures": [
+                {
+                    "id": "015",
+                    "name": "Archespore",
+                    "description": "Archespore (scientific archesporus) is a plant-like monster that appears in CD PROJEKT RED's The Witcher franchise. While it's restricted to the ground, this doesn't make it any less dangerous so caution is heavily advised when going up against one. However, just like any plant, it has a weakness to fire.",
+                    "weaknesses": [
+                        "Igni Sign",
+                        "Dancing Star Bomb"
+                    ],
+                    "immunities": [
+                        "Poison",
+                        "Bleeding"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Archespore?file=Archespore_Witcher_3.png"
+                },
+                {
+                    "id": "016",
+                    "name": "Berserkers",
+                    "description": "Werebears, on Skellige known as berserkers, are therianthropes who transform into bears or half-bears. As other such creatures, they are hardly hurt by steel but are still very vulnerable to silver.",
+                    "weaknesses": [
+                        "Silver Sword",
+                        "Beast Oil"
+                    ],
+                    "immunities": [
+                        "Stagger",
+                        "Poison"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Berserker?file=Berserker_Witcher_3.png"
+                },
+                {
+                    "id": "017",
+                    "name": "Botchlings",
+                    "description": "Botchling (Polish: poroniec) is a small creature, resembling a highly deformed fetus - created from the improper burial of unwanted, stillborn infants - that preys on pregnant women.",
+                    "weaknesses": [
+                        "Axii Sign",
+                        "Specter Oil"
+                    ],
+                    "immunities": [
+                        "Fear",
+                        "Mind Control"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Botchling?file=Botchling_Witcher_3.png"
+                },
+                {
+                    "id": "018",
+                    "name": "Lubberkin",
+                    "description": "A lubberkin (Polish: kłobuk) is a friendly household guardian spirit created from a botchling through Aymm Rhoin, an elven naming ritual.",
+                    "weaknesses": [
+                        "Axii Sign",
+                        "Specter Oil"
+                    ],
+                    "immunities": [
+                        "Fear",
+                        "Poison"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Lubberkin?file=Lubberkin_Witcher_3.png"
+                },
+                {
+                    "id": "019",
+                    "name": "The Toad Prince",
+                    "description": "Toad Prince is a powerful monster in the Hearts of Stone expansion.",
+                    "weaknesses": [
+                        "Northern Wind Bomb",
+                        "Cursed Oil",
+                        "Igni Sign"
+                    ],
+                    "immunities": [
+                        "Poison",
+                        "Bleeding",
+                        "Knockdown"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Toad_Prince?file=Toad_Prince_Witcher_3.png"
+                },
+                {
+                    "id": "020",
+                    "name": "Ulfhedinn",
+                    "description": "Ulfhedinn are a type of werewolf only found around Skellige. They have stronger combat skills on their own, but unlike common werewolves can't summon wolves to their aid.",
+                    "weaknesses": [
+                        "Silver Sword",
+                        "Cursed Oil"
+                    ],
+                    "immunities": [
+                        "Poison",
+                        "Stagger"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Ulfhedinn?file=Ulfhedinn_Witcher_3.png"
+                },
+                {
+                    "id": "021",
+                    "name": "Werewolves",
+                    "description": "Werewolves are therianthropes who transform into wolves or half-wolves. As other such creatures, they are hardly hurt by steel but very vulnerable to silver.",
+                    "weaknesses": [
+                        "Silver Sword",
+                        "Cursed Oil"
+                    ],
+                    "immunities": [
+                        "Poison",
+                        "Bleeding"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Werewolf?file=Werewolf_Witcher_3.png"
+                }
+            ]
+        },
+        {
+            "type": "Draconids",
+            "creatures": [
+                {
+                    "id": "022",
+                    "name": "Basilisks",
+                    "description": "Basilisks är en art av drakonider som ursprungligen härstammar från Zerrikania och avlades i Norden under 1200-talet.",
+                    "weaknesses": [
+                        "Draconid Oil",
+                        "Grapeshot",
+                        "Golden Oriole",
+                        "Aard Sign"
                     ],
                     "immunities": [
                         "Poison"
                     ],
-                    "image": "https://example.com/ghoul.jpg"
+                    "image": "https://witcher.fandom.com/wiki/Basilisk?file=Basilisk_Witcher_3.png"
+                },
+                {
+                    "id": "023",
+                    "name": "Cockatrices",
+                    "description": "Cockatrice, även känd som skoffin och kurolishek, är en ornitosaur. Enligt forskare är det den enda varelsen som tillhör ordningen ornithoreptile.",
+                    "weaknesses": [
+                        "Draconid Oil",
+                        "Grapeshot",
+                        "Aard Sign"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Cockatrice?file=Cockatrice_Witcher_3.png"
+                },
+                {
+                    "id": "024",
+                    "name": "Forktails",
+                    "description": "Forktail är en varelse relaterad till drakar, men mindre och inte intelligent. Som namnet antyder kan den kännas igen på sin kluvna svans.",
+                    "weaknesses": [
+                        "Draconid Oil",
+                        "Grapeshot",
+                        "Aard Sign"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Forktail?file=Forktail_Witcher_3.png"
+                },
+                {
+                    "id": "025",
+                    "name": "Royal wyverns",
+                    "description": "Royal wyvern är en större och farligare ras av wyvern som är mycket aggressiv och giftig. Denna varelse är särskilt skrämmande eftersom den inte fruktar ens grupper av bönder beväpnade med spjut och högafflar.",
+                    "weaknesses": [
+                        "Draconid Oil",
+                        "Grapeshot",
+                        "Aard Sign"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Royal_wyvern?file=Royal_wyvern_Witcher_3.png"
+                },
+                {
+                    "id": "026",
+                    "name": "Shrieker",
+                    "description": "Shrieker är en kraftfull cockatrice som bor i en grotta i utkanten av Crow's Perch.",
+                    "weaknesses": [
+                        "Draconid Oil",
+                        "Grapeshot",
+                        "Aard Sign"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Shrieker?file=Shrieker_Witcher_3.png"
+                },
+                {
+                    "id": "027",
+                    "name": "Silver Basilisk",
+                    "description": "Silver Basilisk är en sällsynt underart av basilisk som har jagats till nästan utrotning.",
+                    "weaknesses": [
+                        "Draconid Oil",
+                        "Grapeshot",
+                        "Golden Oriole",
+                        "Aard Sign"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Silver_Basilisk?file=Silver_Basilisk_Witcher_3.png"
+                },
+                {
+                    "id": "028",
+                    "name": "Slyzards",
+                    "description": "Slyzards är stora, gråfärgade flygande reptiler, ibland lika stora som drakar, som de ibland förväxlas med. De har långa taggiga svansar och är så starka att en ren träff från deras svans inte kan pareras.",
+                    "weaknesses": [
+                        "Draconid Oil",
+                        "Grapeshot",
+                        "Aard Sign"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Slyzard?file=Slyzard_Witcher_3.png"
+                },
+                {
+                    "id": "029",
+                    "name": "Slyzard Matriarchs",
+                    "description": "Om du någonsin möter en varelse som andas eld, slår med en svans spetsad med giftiga taggar, biter med vassa tänder och slår med ännu vassare klor och tenderar att slå ner sitt byte med en ljudstöt, då slåss du mot en slyzard.",
+                    "weaknesses": [
+                        "Draconid Oil",
+                        "Grapeshot",
+                        "Aard Sign"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Slyzard_Matriarch?file=Slyzard_Matriarch_Witcher_3.png"
+                },
+                {
+                    "id": "030",
+                    "name": "The Dragon of Fyresdal",
+                    "description": "The Dragon of Fyresdal är en kraftfull forktail som bor i ruinerna av ett förstört anfallstorn nära byn med samma namn. Den kallas felaktigt för en drake eftersom byborna tror att den är en.",
+                    "weaknesses": [
+                        "Draconid Oil",
+                        "Grapeshot",
+                        "Aard Sign"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/The_Dragon_of_Fyresdal?file=The_Dragon_of_Fyresdal_Witcher_3.png"
+                },
+                {
+                    "id": "031",
+                    "name": "Wyverns",
+                    "description": "Wyverns är en utrotningshotad art av ornitosaur med ormliknande halsar och långa svansar som slutar i en giftig treudd, nästan helt täckta av mörka fjäll. Deras hotfulla tänder gör att varelsen kan störtdyka från himlen, lätt fånga sitt byte och bära det till sitt bo, oavsett om det är ett får eller en människa.",
+                    "weaknesses": [
+                        "Draconid Oil",
+                        "Grapeshot",
+                        "Aard Sign"
+                    ],
+                    "immunities": [
+                        "Poison"
+                    ],
+                    "image": "https://witcher.fandom.com/wiki/Wyvern?file=Wyvern_Witcher_3.png"
+                }
+            ]
+        },
+        {
+            "type": "Elementa",
+            "creatures": [
+                {
+                    "id": "032",
+                    "name": "Djinn",
+                    "description": "Much the same as in fairy tales, Djinns are powerful creatures that are capable of great feats. Once captured, they are then bound to the captor and have to fulfill three wishes. Following their completion, they are free once more.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "033",
+                    "name": "Earth Elemental",
+                    "description": "The earth elemental is the younger brother of the legendary d'ao, the genie capable of creating earthquakes and flattening mountains. Younger, and less powerful, but also more mischievous. Felling trees, crushing walls and smashing people to pulp can be counted among this creature's pranks. But only if their master allows it, of course.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "034",
+                    "name": "Fire Elemental",
+                    "description": "Sorcerers proficient in the Art can create gateways to dimensions ruled by the four elements and force the creatures dwelling there to serve them. Herbert Stammelford, one of the members of the first Conclave, had a d'ao, a genie of earth, at his beck and call. At the mage's command it moved a mountain that blocked the view from a window. Contemporary sorcerers are but a pale shadow of the old masters, but they still can do a lot. The most proficient among them can summon fire elementals, perfectly obedient guardians and defenders.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "035",
+                    "name": "Gargoyle",
+                    "description": "In times long gone, when youth was more polite, everything was cheaper, and girls were more eager, sorcerers could breathe life into inanimate matter and create stone servants this way. Gargoyles - for I have them in mind - can be found in ancient cities to this day, but their magic has vanished and now they are nothing more than cornice decorations. There are, however, exceptions such as the Loc Muinne gargoyles - still enchanted and still dangerous.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "036",
+                    "name": "Golem",
+                    "description": "Frustrating jobs happen in every profession. Golem contracts are just such a job for witchers, as they involve slashing through solid rock animated by magic. Luckily, what is brought to life by a lightning bolt can very well be destroyed by one. This is something we all truly wish the golem, from the very bottom of our hearts.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "037",
+                    "name": "Hound of the Wild Hunt",
+                    "description": "Hounds of the Wild Hunt are monsters in The Witcher 3: Wild Hunt. They usually follow riders of the Wild Hunt or are summoned by them.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "038",
+                    "name": "Ice Elemental",
+                    "description": "The bestiary entry can be obtained by reading Of Fire and Stone, which however (while existing in the base game files) cannot be obtained before the Blood and Wine expansion.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "039",
+                    "name": "Moreau's Golem",
+                    "description": "Long years of solitary study tend to make mages somewhat eccentric. As the years pass, laypeople being to irritate them more and more: they are dense, unreliable, disobedient and determined not to understand the gravity of mages' work. They display emotion when they should show discipline and self-mastery. No wonder mages have long considered the best companions to be artificial constructs they themselves bring to life and design to follow their orders and meet their needs.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "040",
+                    "name": "Pixies",
+                    "description": "Pixies are elementa that inhabit the Land of a Thousand Fables. They only appear in the Blood and Wine expansion and The Witcher: Monster Slayer.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "041",
+                    "name": "The Apiarian Phantom",
+                    "description": "The Apiarian Phantom is a powerful Hound of the Wild Hunt who strayed from its pack during one of their numerous raids.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "042",
+                    "name": "Therazane",
+                    "description": "Therazane is a powerful earth elemental which had been imprisoned by its previous owner in a magical prison, located inside elven ruins found just underneath Moldavie Residence.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "type": "Hybrids",
+            "creatures": [
+                {
+                    "id": "043",
+                    "name": "Ekhidna",
+                    "description": "Ekhidnae are a larger, stronger, breed of sirens appearing in The Witcher 3: Wild Hunt. They make bodies of water a dangerous place thus a crossbow might prove useful to Geralt.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "044",
+                    "name": "Erynia",
+                    "description": "Erynias are a species of harpy. They appear larger than harpies and armored and can be distinguished from other harpies by their crystal bracelets.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "045",
+                    "name": "Griffin",
+                    "description": "A griffin, also known as griffon or gryphon, is a creature with the body, legs, and tail of a lion and the head, wings, and talons of an eagle. They are known to toy with their prey, eating it alive, piece by piece.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "046",
+                    "name": "Harpy",
+                    "description": "A harpy is a monster with a woman's head and a bird's body. Some are repulsed by rotfiends, other cannot stand tales of bullvores, but I find harpies, beasts of ugly temper and penchant for thieving, the worst of all. Fortunately, harpies prefer wild, mountainous areas, full of rocky ledges they can build their nests on.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "047",
+                    "name": "Melusine",
+                    "description": "Melusine is an old and powerful ekhidna living in a large complex of caves near the village of Svorlag, located in Skellige. It is presumed that a cult once worshipped Melusine as evidenced by the large winged statue located in the caves beneath the mountains which she inhabits.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "048",
+                    "name": "Opinicus",
+                    "description": "Opinicus is a very powerful archgriffin living in the forests east of Oxenfurt. Many mercenary companies in the past have tried to take down this beast, but to no avail.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "049",
+                    "name": "Salma",
+                    "description": "Salma Lilith[1] was a succubus prostitute in Novigrad in 1272. She lived at a house near Glory Lane in southern Novigrad, and practiced her trade at Crippled Kate's brothel.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "050",
+                    "name": "Siren",
+                    "description": "While the game calls these sirens, they're more accurately nixa: a far more vicious type of siren that, unlike merpeople, have wings, allowing them to fly. Out at sea, if you hear a beautiful woman singing, turn the ship around at once. You understand? Even if it means sailing straight back into a storm.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "051",
+                    "name": "Succubus",
+                    "description": "A succubus (female) or incubus (male) is a creature, sometimes considered a demon, looking like a highly attractive human being seducing real humans, first appearing in dreams from time to time, then physically, and is interested only in men that have already come of age. Neither succubi nor incubi are particularly violent, though they draw energy from the men and women to sustain themselves, often until the point of exhaustion or death of the victim.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "type": "Insectoids",
+            "creatures": [
+                {
+                    "id": "052",
+                    "name": "Arachasae",
+                    "description": "Arachas, or crab spiders, are large insectoids with a distinctly large abdomen. Described as an extremely venomous, its variants are found in both desert and swamp regions. The varieties found in the Ysgith tend to have mouths that resemble a large orchid.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "053",
+                    "name": "Arachnomorphs",
+                    "description": "Arachnomorphs (called monstrous spiders by simple folk) are large insectoid creatures resembling spiders. They are post-Conjunction creatures, and their preferred choice of habitat is a deep, damp cave or the occasional isolated swamp.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "054",
+                    "name": "Armored arachasae",
+                    "description": "An arachas' only weakness is its soft, sensitive abdomen. Some arachasae hide this under hollow tree stumps, while other, armored varieties exist which have grown a thick carapace that covers all the more delicate parts of their bodies.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "055",
+                    "name": "Endrega drones",
+                    "description": "Lazy, good-for-nothing men are sometimes called drones. That's an insult to endrega drones, who at least get off their arses to fight. Endrega males called 'drones' are gluttonous creatures whose only aim in life is to eat, fight and reproduce. Yet when venturing outside their nests, these aggressive hunters attack any and every creature they come across.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "056",
+                    "name": "Endrega warriors",
+                    "description": "Endless waves of endrega workers are enough to overcome most attackers, but when confronting more dangerous foes, endrega colonies unleash their larger, stronger members – the so-called warriors. This caste lives only to fight, and gets ample opportunity to do so while defending the colony's borders or conquering new territory.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "057",
+                    "name": "Endrega workers",
+                    "description": "Workers are the most numerous, and thus the most frequently encountered, caste of endrega. Within the colony their duty lies in building nests and cocoons, acquiring food and caring for eggs and larvae. When threatened they will summon warriors to aid them, yet if forced to defend themselves they will – and do so surprisingly well.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "058",
+                    "name": "Giant centipedes",
+                    "description": "Giant centipede (Hen Llinge: Yghern, Scholar: scolopendromorph), is an insectoid monster found alont the Pontar, in Brokilon, and elsewhere. It is about twelve feet in length with dark brown chitinous armor. Very dangerous, tends to wrap itself around its victims before poisoning them. Might be related to myriapodans.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "059",
+                    "name": "Harrisi",
+                    "description": "Harrisi is a powerful venomous arachas who has made her home in an abandoned mine located near the battlefront between Nilfgaard and Redania.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "060",
+                    "name": "Kikimore",
+                    "description": "Kikimore, or kikimora, is an insectoid monster species that lives underground, as well as in swamps.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "061",
+                    "name": "Kikimore workers",
+                    "description": "Kikimore workers are resourceful, cautious, and as industrious as ants. It is hard to believe that these spider-like creatures have so few admirers willing to observe and emulate them. Perhaps this is because researchers and collectors of insects seldom return from expeditions to kikimore colonies, and thus never disseminate their findings about these splendid creatures.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "062",
+                    "name": "Pale Widows",
+                    "description": "Pale Widow (scientifically, gray scolopendromorphs[1]) is a special type of giant centipede that lives in underground lairs. They are first introduced in the Blood and Wine expansion.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "063",
+                    "name": "Sandcrabs",
+                    "description": "Sandcrabs are insectoids encountered for the first time in the Ddiddiwedht Desert, which Geralt of Rivia and Avallac'h traverse in The Witcher 3: Wild Hunt. Sandcrabs are not particularly strong opponents. As it turns out, they are only dangerous in large quantities. An important fact is that sandcrabs can suddenly jump out of the ground in a similar fashion to giant centipedes.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "064",
+                    "name": "Venomous arachasae",
+                    "description": "Though all arachasae are highly venomous, this breed produces an especially strong toxin. A few drops are enough to kill a grown man – unless that man is a witcher, whose mutations will neutralize small amounts of this venom. Large quantities, however, will kill anything they touch, with mutations only prolonging an inevitable and painful death in such instances.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "type": "Ogroids",
+            "creatures": [
+                {
+                    "id": "065",
+                    "name": "Cloud Giant",
+                    "description": "The Cloud Giant is most likely a degenerated illusory being. He is an inhabitant of the castle in the sky in the Land of a Thousand Fables. This land was abandoned and left untended for years, during which time it began to rot, fester and degrade.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "066",
+                    "name": "Cyclopses",
+                    "description": "Cyclopses can easily be recognized by the single eye located in the center of their foreheads. If for some reason that is not visible, other tell-tale signs are their enormous size, incredible strength and a seething hatred for all humans.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "067",
+                    "name": "Golyat",
+                    "description": "Golyat is a name for the giant that the witcher Geralt of Rivia, along with Milton de Peyrac-Peyran, Palmerin de Launfal, and Guillaume de Launfal met as they were entering Toussaint. He had the strength to pick up and throw a horse with only a single hand. He used the millstone of a destroyed windmill as a huge club.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "068",
+                    "name": "Hagubman",
+                    "description": "Hagubman is a powerful and cunning nekker warrior leading a colony of nekkers on the island of Hindarsfjall. It is known to set up ambush, such as setting an abandoned wagon on a trade route and then waiting for someone to investigate it, then attacking them with its pack.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "069",
+                    "name": "Ice giant",
+                    "description": "This powerful, primeval monster is quite possibly the last of its race. The Ice Giant resembles a man in many respects, but is blue as frost and taller than a tree. Though it seems capable of reason, all attempts to communicate with it to date have ended the same way – in a quick and painful death.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "070",
+                    "name": "Ice troll",
+                    "description": "Ice trolls are a breed of semi-intelligent troll species adapted for the cold regions of the Northern Realms and Skellige. Unlike their rock and normal brethren, they usually cannot speak the Common Speech. Their bestiary entry is obtained by reading The World Underground.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "071",
+                    "name": "Nekkers",
+                    "description": "Imagine a drowner that burrows tunnels, climbs trees, is more vicious than usual, and when ambushing its prey, it does so with many of its kin. Now you have a good idea of what a nekker is. These primitive creatures are the bane of the wilderness - the inhabitants of forest villages fear them, and animals give their nests a wide berth. Nekkers are social creatures, gathering in something akin to tribes, for they can only repel the attacks of stronger assailants en masse.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "072",
+                    "name": "Rock troll",
+                    "description": "Rock trolls are an ogroid race that can communicate with humans and nonhumans on a basic level. While they don't appear to be as advanced as other races, and tend to live in the mountains, their ability to use Common Speech has meant various groups have them do jobs on occasion, usually in the form of guarding over something due to their brute strength.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "073",
+                    "name": "Wham-a-Wham",
+                    "description": "Rock trolls come across as dim-witted, ponderous, slow - stupid, to be frank. It's easy to dismiss them - and even easier to enrage them. When this happens, one's best bet is to run as fast as possible, for an angered rock troll is as deadly as a thundering landslide. The truth held in the case of the massive rock troll known as Wham-a-Wham. His every blow struck like a battering ram - meaning one needed either avoid them entirely or protect oneself with the Quen Sign. ",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "type": "Relicts",
+            "creatures": [
+                {
+                    "id": "074",
+                    "name": "Chorts",
+                    "description": "Chorts are the somewhat smaller kin of fiends and bumbakvetches. Yet any witcher who thinks their diminutive stature means they present no danger commits a grave error – the kind that can end his career permanently. These denizens of dark and ancient woods are some of the most dangerous monsters known to man.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "075",
+                    "name": "Crones",
+                    "description": "The Crones, also called the Ladies of the Wood, are three witches who live in a cabin in the swamps of Velen. Legend suggests the three are sisters and the daughters of the original Lady of the Wood, also known as She-Who-Knows. They are named Brewess, Weavess, and Whispess.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "076",
+                    "name": "Doppler",
+                    "description": "Dopplers (also called shifters, vexlings, mimics, doubles, imitators, or pavrats) are shapeshifters who can take the form of anyone or any beast they have encountered, provided it has a similar body weight. They used to live in the plateau near modern-day Novigrad, but moved to the city itself after it proved to offer more possibilities of survival.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "077",
+                    "name": "Fiends",
+                    "description": "Fiends are walking mountains of muscle capped with horned, tooth-filled heads. Like their rarer cousins, bumbakvetches, they live in thick forests, swamps and bogs. When possible they avoid humans, but when not possible, they kill them, and without much difficulty.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "078",
+                    "name": "Fugas",
+                    "description": "The devil Fugas held a very prestigious and responsible position during the Crones' sabbath: that of goon restricting access to the peak. He in no way resembled Torque, the irritating but harmless deovel Geralt and I had encountered many, many years prior.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "079",
+                    "name": "Godling",
+                    "description": "Godlings (sometimes mistaken for lutin) are woodland creatures dwelling in burrows and moss-covered hollow stumps on the outskirts of human settlements. They are similar to children in behavior and appearance, and, like children, delight in mischief. Godlings are deeply rooted in their home territory and perform acts of care and guardianship to those dwelling near their burrows. They watch over people as well as animals, but, shy creatures by nature, they try to do so while remaining unseen. Godlings are drawn to joy and innocence, and so delight in the company of children and usually only show themselves to the young.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "080",
+                    "name": "Grottore",
+                    "description": "No one knows exactly when the spriggan called Grottore first made its home in the caves at the foot of Mount Gorgon. Spriggans usually prefer isolated backwoods and rarely make dens in caverns.Yet Grottore seemed to have taken a liking to grottos, giving rise to its nickname.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "081",
+                    "name": "Howler",
+                    "description": "One is hard-pressed to name another area of our world more thoroughly riddled with monsters than Velen. There is on silver lining to this sad fact, however: the beasts living there must compete fiercely for hunting territory, meaning monsters often end up killing other monsters. An aggressive chort known as Howler went on just such a fratricidal rampage, tearing a pack of wolves to shreds before attacking and killing a fiend significantly larger than itself.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "082",
+                    "name": "Imp",
+                    "description": "The imp pestering the merchants of Novigrad turned out to be a doppler. These monsters usually avoid confrontation - to everyone's great relief, for when pinned they become extremely dangerous. Fighting them quickly turns into a fight against oneself. Or, to be precise, against a mirror image gifted with one's own strengths and abilities. In a conflict with such even odds, only luck - or destiny - decides the victor.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "083",
+                    "name": "Kernun",
+                    "description": "Kernun is a powerful, old leshen who established its presence in the woods just outside Novigrad.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "084",
+                    "name": "Leshen",
+                    "description": "At the heart of the forest lies a secret. In a place born of darkness and primeval nature, resides a mighty and terrifying guardian. Immune to human steel, it is believed the leshen is nature's way of protecting the forest and the animals that live within it from the threat humans started to pose upon their ravaging expansion deeper into the lands.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "085",
+                    "name": "Morvudd",
+                    "description": "Morvudd (Nilfgaardian language: enemy) is a powerful fiend who has made its home in the ruined village of Boxholm.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "086",
+                    "name": "Shaelmaar",
+                    "description": "Shaelmaar (Polish: Szarlej) is a large creature that spends most of its life underground in burrow tunnels leaving only at times. It's sometimes used to entertain crowds in the arenas against human opponents, such as gladiators in Nilfgaard or knights in Toussaint.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "087",
+                    "name": "Shaelmaar from the Emperor of Nilfgaard",
+                    "description": "Shaelmaar from the Emperor of Nilfgaard was the carefully bred shaelmaar that Emhyr var Emreis gave to Anna Henrietta and the folks of Toussaint as a form of entertainment to put in the arena. He later went to have a mate sent over, though the other shaelmaar panicked aboard the ship and wreaked havoc, sending the ship and beast to the bottom of the ocean. Combat tactics are the same as a classic shaelmaar.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "088",
+                    "name": "Spriggans",
+                    "description": "Spriggan is a humanoid, forest-dwelling creature, often persecuted along with dryads by humans, in particular Rangers. Danusia Stok uses the word spriggan as a translation of Polish borowik.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "089",
+                    "name": "Sylvans",
+                    "description": "Sylvans, called willowers or pucks,[N 1] and labeled superstitiously as devils (archaic Common: deovel; Elder Speech: d'yaebl; Dwarvish: duvvel), are an exceptionally rare, intelligent race native to the woodlands of the Northern Kingdoms. They are distinguished by prominent goat-like visage and delight in pranks, feasting, and music.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "090",
+                    "name": "The Caretaker",
+                    "description": "The Caretaker is a unique relict monster in the Hearts of Stone expansion. He is a servant of Iris von Everec summoned by her husband Olgierd.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "091",
+                    "name": "The Monster of Tufo",
+                    "description": "Imagine a creature that kills men, feeds on kikimore eggs and digs underground tunnels so wide they'd fit the emperor of Nilfgaard's coronation carriage along with a team of six horses. And now imagine this creature digs with such force, the earth quakes and the houses up above tremble and collapse. Noting these symptoms, Geralt was at first unsure what sort of a beast he could be dealing with, knowing only that he needed to be very, very careful.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "092",
+                    "name": "Wicked Witch",
+                    "description": "The Wicked Witch is one of the inhabitants of the Land of a Thousand Fables in the Blood and Wine expansion.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "093",
+                    "name": "Woodland Spirit",
+                    "description": "Woodland Spirit is a very old and very powerful leshen worshiped by the elders of the village of Fayrlund but is disliked by the younger inhabits of the village led by Sven.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "type": "Specters",
+            "creatures": [
+                {
+                    "id": "094",
+                    "name": "Barghest",
+                    "description": "Barghest are creatures summoned by the Beast and haunt Vizima's outskirts. There are those who claim they are ordinary dogs transformed into monsters by some curse; others believe they came from the spirit world to torment the town's inhabitants. Packs of barghests appear out of the blue, in the middle of the night, to kill those who are late getting home.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "095",
+                    "name": "Banshee",
+                    "description": "A banshee, also called a beann'shie, is a female spirit who cries on Saovine night, wailing a warning of those who will die. Banshees are not specifically malicious spirits, though meeting one is considered to be an omen of the worst kind.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "096",
+                    "name": "Daphne's Wraith",
+                    "description": "During his stay in Toussaint, Geralt became involved with a curiuos case of gynodendromorphy - that is to say, a woman who had been turned into a tree. When one cut into this tree's bark, it bled, and when the wind blew through its leaves, one could hear muffled sobs. Geralt investigated the matter and learned magic (or possibly a curse) was responsible for the transformation, and it surely had something to do with a certain sad episode form the woman's past. The love of Daphne's life, a knight errant, had gone to the witch of Lynx Crag and never returned, leaving her to wait for him forever, filled with sadness and longing.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "097",
+                    "name": "Devil by the Well",
+                    "description": "The residents of White Orchard have suffered more than their fair share of misfortunes. Passing armies had trampled their spring planting, a griffin had begun abducting their livestock, and, the rotten icing on this painful cake, a noonwraith haunted a nearby well. No wonder the locals called this final evil a 'devil'. The witcher could sense something bound her to this place, and that in order to send her off into ethereal realms he would first need to learn her secret.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "098",
+                    "name": "Ethereal",
+                    "description": "The Ethereal is a demon-like, nightmarish creature that first appeared in the Hearts of Stone expansion. For Iris, it takes on the form of her husband, Olgierd.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "099",
+                    "name": "Hym",
+                    "description": "It's particularly formidable in that it doesn't outright attack its target but instead feeds on the target's guilt, tormenting them to the point the person goes completely mad or they commit suicide.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "100",
+                    "name": "Jenny o' the Woods",
+                    "description": "Jenny o' the Woods was the name given to a powerful nightwraith that haunted the fields near the village of Midcopse in Velen.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "101",
+                    "name": "Longlocks",
+                    "description": "Longlocks is a unique banshee in the Blood and Wine expansion. She's found at the top of her tower in the Land of a Thousand Fables. Unlike the fairy tale, she cannot be rescued as she used her long hair to hang herself and her spirit will attack once Geralt enters her room.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "102",
+                    "name": "Nightwraith",
+                    "description": "When the sun sets, the fields become the domain of midnight demons who draw their power from moonlight. Dark as the night itself and filled with grief, they roam the fields lit by silver light. Woe to those who are spotted by a nightwraith.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "103",
+                    "name": "Noonwraith",
+                    "description": "Noonwraith — These monsters appear in fields when the sun is at its highest. Swaying grains on a windless day announce their arrival. They dance in circles in the light of day and draw farmers in to join them. Since they are ghosts, no one who joins them leaves the circle alive.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "104",
+                    "name": "Penitent",
+                    "description": "Penitent is a rare type of wraith who only haunts people who have done bad deeds. One is currently haunting the lighthouse keeper in Eldberg Lighthouse on Ard Skellig.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "105",
+                    "name": "Plague maiden",
+                    "description": "Plague maiden, also called Pesta, is a spirit personifying disease and pestilence. Plague maiden will be added to the Bestiary by reading Of Sweat and Blood.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "106",
+                    "name": "Red Miasmal",
+                    "description": "It is often said the darkest recesses of caves play home to the Continent's most fearsome monsters against which there is little of hope of victory or escape. The long solution, then, is to seal them off from the world with the hope that they shall forever remain buried. A certain priest of the Eternal Fire, however, learned that hope and prayer is sometimes not enough. The cavernous mind within Devil's Pit holds a specter whose very existence is believed to breed pestilence. With the threat of its release now imminent, the cleric seeks a new solution – the aid of a witcher. The being that haunted Devil's Pit turned out to be a red miasmal. Whereas a plague maiden is thought to be a damned spirit—once human but now cursed to spread the pestilence—a miasmal, by contrast, is considered an evil force born from the concentrated collective suffering of plague victims.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "107",
+                    "name": "Umbra",
+                    "description": "Umbras are invisible specters, even to witchers, and can only be seen through the use of powerful hallucinogenics (like graytop) or by certain animals, like horses. They can take on any form as a specter.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "108",
+                    "name": "The White Lady",
+                    "description": "The White Lady is a special type of noonwraith in The Witcher 3: Wild Hunt. This specter was formerly a woman named Luzi, who committed suicide after abandoning her wedding for unknown reasons. She ran into the fields west of Drahim Castle and slashed her wrists with a dagger, transforming her into a noonwraith.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "109",
+                    "name": "The Wraith from the Painting",
+                    "description": "Wraith from the Painting is what remains of Iris von Everec in the world of the living.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "110",
+                    "name": "Wraith",
+                    "description": "Sometimes witchers must put to rest ghosts who haunt the living. Wraiths appear near cemeteries or in homes they inhabited during their lives. They usually have no memories and are guided strictly by hatred towards the living. May they rest in peace.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "type": "Vampires",
+            "creatures": [
+                {
+                    "id": "111",
+                    "name": "Alpha Garkain",
+                    "description": "Alpha Garkain is introduced with the Blood and Wine expansion and is a stronger version of the regular garkain.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "112",
+                    "name": "Alp",
+                    "description": "In many ways, alps are similar to two other species of intelligent vampires, mulas and bruxae, although seemingly less powerful than the latter. Silver used in form of weapons or chains, on the other hand, can hurt them and so they tend to avoid it. While resistant to sun along with mulas, bruxae,[3] and Higher Vampires,[4] they tan to almost black if affected by it too much. They have pointed ears, similar to elves.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "113",
+                    "name": "Bruxa",
+                    "description": "Bruxa is a very powerful type of vampire that takes on the appearance of a dark-haired, young human, most often female, but whose natural form is that of a large, black bat with sharp fangs and claws. It is one of few vampire species not affected by sun, the others being alps, mulas[1] and Higher Vampires.[2]",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "114",
+                    "name": "Dettlaff van der Eretein",
+                    "description": "Dettlaff van der Eretein, also known as The Beast of Beauclair, was a higher vampire who was responsible for regenerating Emiel Regis Rohellec Terzieff-Godefroy with his blood and nursing him back to health after he was killed by Vilgefortz in the Assault on Stygga castle. Regis became forever indebted to Dettlaff for his selfless actions.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "115",
+                    "name": "Ekimmara",
+                    "description": "An ekimma or ekimmara is a type of lower vampire like fleders are. These tend to be more vicious and animalistic. A bestiary entry can be obtained by reading My Evening with a Vampire.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "116",
+                    "name": "Fleder",
+                    "description": "Fleders are lesser vampires, but this description can be deceiving, for lesser does not mean weak and stupid. True, they are primitive and bear a closer relation to animals than to humans; but when they drop on their prey from above, they can be just as dangerous as their noble cousins, even to a witcher.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "117",
+                    "name": "Gael",
+                    "description": "Gael is a Katakan which has acquired a taste for the blood of drunkards and an eye for shiny jewelry in Oxenfurt.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "118",
+                    "name": "Garkain",
+                    "description": "Garkains are lesser vampires, so foul that the mere sight of one paralyses opponents, especially sensitive ones. Apart from using its ugliness as a weapon, the garkain has at its disposal an amazing variety of ways to pin down victims and suck their blood.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "119",
+                    "name": "Higher Vampire",
+                    "description": "Higher Vampires are an incredibly rare form of vampire and are often mistaken for their lesser brethren.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "120",
+                    "name": "Katakan",
+                    "description": "Katakans are a vampire race found in the Northern Kingdoms, where they first appeared around the 230s BR, through the Conjunction of the Spheres.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "121",
+                    "name": "Protofleder",
+                    "description": "Protofleder is the unevolved ancestor[1] of the vampire known as fleder. The species is first introduced in the Blood and Wine expansion and can only encountered in the unusual caves of Hen Gàidh, where a gate between the vampires' world opened then closed. They emit a red glow from their bodies that dies out when killed.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "122",
+                    "name": "Sarasti",
+                    "description": "Sarasti is a very old and very powerful ekimmara resting inside an elven ruin beneath Byways, Velen.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
+                },
+                {
+                    "id": "123",
+                    "name": "The Bruxa of Corvo Bianco",
+                    "description": "The Bruxa of Corvo Bianco is a special type of bruxa introduced in the Blood and Wine expansion. After overhearing Geralt talking with others that Louis de la Croix's body had been taken to Corvo Bianco, she made her way there, killing all the people in her way. However, just as she was recovering Dettlaff's hand, Geralt found her and she chose to fight him, ultimately resulting in her death.",
+                    "weaknesses": [
+                        "",
+                        ""
+                    ],
+                    "immunities": [
+                        "",
+                        ""
+                    ],
+                    "image": ""
                 }
             ]
         }
